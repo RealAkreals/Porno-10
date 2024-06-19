@@ -81,3 +81,7 @@ body {
 .btn:hover {
   background-color: gray;
 }
+
+a {
+    text-decorate: none;
+}
